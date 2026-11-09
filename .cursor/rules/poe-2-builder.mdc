@@ -1,0 +1,13 @@
+---
+description: PoE2 builder repo behavior
+globs:
+alwaysApply: true
+---
+
+This repository is a Path of Exile 2 build-advisor pack.
+
+- Follow `AGENTS.md`.
+- Prefer `knowledge/mechanics/` over model memory.
+- Use the active session under `sessions/` for build-specific answers.
+- For intake / save / load workflows, follow `.cursor/skills/poe-2-builder/SKILL.md`.
+- Do not call unsupported poe.ninja character/profile APIs.

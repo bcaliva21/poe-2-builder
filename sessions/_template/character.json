@@ -1,0 +1,19 @@
+{
+  "source": "manual_template",
+  "class": null,
+  "ascendancy": null,
+  "level": null,
+  "main_skill_hint": null,
+  "damage_profile": "unknown",
+  "stats": {
+    "CritChance": null,
+    "CritMultiplier": null,
+    "ShockMagnitudeIncreased": null,
+    "ShockEffect": null,
+    "Life": null,
+    "EnergyShield": null
+  },
+  "notes": [
+    "Fill stats from PoB or in-game. Null means unknown, not zero."
+  ]
+}
